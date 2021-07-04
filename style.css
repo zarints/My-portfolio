@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 h1{
     font-size: 50px;
@@ -19,4 +20,7 @@ section{
 .button{
     text-decoration: none; background-image:linear-gradient(lightblue, deepskyblue);
     padding: 10px 40px; border-radius: 5px;
+}
+.top{
+    background-image: url(images/top-banner.png); background-repeat: no-repeat;
 }

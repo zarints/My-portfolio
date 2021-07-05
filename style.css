@@ -8,7 +8,7 @@ h1{
 .orange{
     color: deepskyblue;
 }
-section{
+.add{
     display: flex; padding-bottom: 4%;
 }
 .one{
@@ -24,7 +24,7 @@ section{
 .top{
     background-image: url(images/top-banner.png); background-repeat: no-repeat;
 }
-section{
+.add{
     display: flex;
 }
 .two{
@@ -39,4 +39,7 @@ section{
 }
 .blue{
     color: dodgerblue;
+}
+.flexible{
+    display: flex;
 }

@@ -9,7 +9,7 @@ h1{
     color: deepskyblue;
 }
 section{
-    display: flex;
+    display: flex; padding-bottom: 4%;
 }
 .one{
     width: 50%; padding-left: 3%;
@@ -23,4 +23,20 @@ section{
 }
 .top{
     background-image: url(images/top-banner.png); background-repeat: no-repeat;
+}
+section{
+    display: flex;
+}
+.two{
+    width: 50%; padding-right: 2%;
+}
+.two img{
+    width: 80%;
+}
+.down{
+    display: flex; padding-right:1%; background-image: url(images/dream-bg.png); background-repeat: no-repeat;
+    background-position: right;
+}
+.blue{
+    color: dodgerblue;
 }
